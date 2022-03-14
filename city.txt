@@ -2,3 +2,5 @@ chennai
 mumbai
 andhra
 dfgd
+goa
+kerala
